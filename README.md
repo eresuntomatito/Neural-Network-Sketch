@@ -1,5 +1,5 @@
 # Neural-Network-Sketch
-an sketch of a neural network in P5.js
+An sketch of a neural network in P5.js
 This code is a simple simulation of a neural network. It represents neurons as circles with dendrites and synapses as lines between neurons. The program allows you to interact with the neural network by adding and activating neurons with the mouse.
 
 For a neurology student, this code may serve as a useful visualization tool for understanding the basic structure of neurons and synapses and how they interact to form a neural network. It could also be a helpful tool for exploring the effects of changing the parameters of the simulation, such as the force or maximum connection distance, on the behavior of the network.
